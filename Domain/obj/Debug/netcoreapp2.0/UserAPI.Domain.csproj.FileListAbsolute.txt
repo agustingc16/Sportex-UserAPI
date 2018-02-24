@@ -1,0 +1,9 @@
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\bin\Debug\netcoreapp2.0\UserAPI.Domain.deps.json
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\bin\Debug\netcoreapp2.0\UserAPI.Domain.dll
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\bin\Debug\netcoreapp2.0\UserAPI.Domain.pdb
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.csprojResolveAssemblyReference.cache
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.csproj.CoreCompileInputs.cache
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.AssemblyInfoInputs.cache
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.AssemblyInfo.cs
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.dll
+E:\gitprojects\Sportex\APIs\UserAPI\Domain\obj\Debug\netcoreapp2.0\UserAPI.Domain.pdb

@@ -1,0 +1,13 @@
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.DBAccess.dll.config
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.DBAccess.deps.json
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.DBAccess.dll
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.DBAccess.pdb
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.Domain.dll
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\UserAPI.Domain.pdb
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.csprojResolveAssemblyReference.cache
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.csproj.CoreCompileInputs.cache
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.AssemblyInfoInputs.cache
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.AssemblyInfo.cs
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.dll
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\obj\Debug\netcoreapp2.0\UserAPI.DBAccess.pdb
+E:\gitprojects\Sportex\APIs\UserAPI\DBAccess\bin\Debug\netcoreapp2.0\appsettings.json
